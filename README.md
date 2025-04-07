@@ -1,8 +1,4 @@
 # AtliQ-Insight-Analysis
-Sales Insight - AtliQ Technologies
-Here’s a rephrased version of your project summary, rebranded from **Atliq Grands** to **Atliq Technology**, and adjusted to reflect a **tech product insights project** for a **GitHub data project**:
-
----
 
 ![Coverpage](https://user-images.githubusercontent.com/69301816/192222973-da740740-9c5e-4758-ae8f-0fda216857c4.jpg)
 
