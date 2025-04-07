@@ -31,15 +31,6 @@ To address this, the senior management team has decided to incorporate **Busines
 - Total Cancelled Transactions  
 - Cancellation Rate (%)  
 
-## Dataset 📀
-
-The dataset includes historical product and sales information across five CSV files:
-
-- `dim_date.csv`
-- `dim_products.csv`
-- `dim_categories.csv`
-- `fact_sales_aggregated.csv`
-- `fact_transactions.csv`
 
 ## Technology 💻
 **Business Intelligence** for Product Insights
@@ -49,9 +40,6 @@ The dataset includes historical product and sales information across five CSV fi
 
 ## Tools 🛠
 **Microsoft Power BI**
-
-## Glimpse of the Dashboard 🎥  
-![screenshot](https://user-images.githubusercontent.com/69301816/191995726-4b33521e-ccf9-4cdb-86d1-3c5e805bd370.gif)
 
 ## Conclusion 💡
 
